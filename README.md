@@ -13,7 +13,7 @@
 
 - ## KaaS provider [WIP]
     - kubernetes as a service provider
-    - 
+    - dsd
 
 - ## Device meta manager  
     - HTTP api for deploying/removing virtual devices
